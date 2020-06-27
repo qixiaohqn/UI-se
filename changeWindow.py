@@ -1,6 +1,6 @@
 
 from selenium import webdriver
-import time
+
 
 path = r'/Users/qixiaohan/Downloads/chromedriver'
 
